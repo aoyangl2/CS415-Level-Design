@@ -1,0 +1,25 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"D:/Unreal Projects/UnrealLearningKit/Content/LearningKit_Games/Maps/MP2.umap",
+				"D:/Unreal Projects/UnrealLearningKit/Content/LearningKit_Games/Blueprints/UI/WB_HealthBar.uasset",
+				"D:/Unreal Projects/UnrealLearningKit/Content/LearningKit_Games/Blueprints/PlayerCharacter/BP_LearningKit_PlayerCharacter.uasset",
+				"D:/Unreal Projects/UnrealLearningKit/Content/LearningKit_Games/Maps/LearningKit_Games_Showcase.umap",
+				"D:/Unreal Projects/UnrealLearningKit/Content/LearningKit_Games/Blueprints/UI/WB_Restart.uasset",
+				"D:/Unreal Projects/UnrealLearningKit/Content/LearningKit_Games/Blueprints/Pickups/HealthPack.uasset",
+				"D:/Unreal Projects/UnrealLearningKit/Content/LearningKit_Games/Blueprints/UI/WB_Score.uasset",
+				"D:/Unreal Projects/UnrealLearningKit/Content/LearningKit_Games/Blueprints/BaseClasses/Master_Pickup_BP.uasset",
+				"D:/Unreal Projects/UnrealLearningKit/Content/LearningKit_Games/Blueprints/Pickups/Collectable_Pickup_BP.uasset",
+				"D:/Unreal Projects/UnrealLearningKit/Content/LearningKit_Games/Blueprints/Pickups/PowerUp_Pickup_BP_Child.uasset",
+				"D:/Unreal Projects/UnrealLearningKit/Content/LearningKit_Games/Blueprints/AIPersuer/Pursuer_AIController.uasset",
+				"D:/Unreal Projects/UnrealLearningKit/Content/LearningKit_Games/Blueprints/AIPersuer/BP_Pursuer.uasset",
+				"D:/Unreal Projects/UnrealLearningKit/Content/LearningKit_Games/Blueprints/AIPersuer/EAIState.uasset",
+				"D:/Unreal Projects/UnrealLearningKit/Content/LearningKit_Games/Blueprints/UI/ScoreUI.uasset"
+			]
+		}
+	]
+}
